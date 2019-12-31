@@ -1,0 +1,15 @@
+@charset "utf-8";
+.box {
+	font-family: "宋体";
+	font-size: 12px;
+	height: 1200px;
+	width: 1024px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.box .nav {
+	height: 155px;
+	width: 1003px;
+	margin-right: auto;
+	margin-left: auto;
+}
